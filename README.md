@@ -18,3 +18,10 @@ Adam Bien / Airhacks links: https://airhacks.industries
 
 # links & resources
 
+Thanks for attending JUG Vienna and see you in December 2023 with:
+
+AWS Security, Authentication and Authorization for Java, December 7th, 2023
+
+Serverless Java Patterns and Best Practices on AWS, December 14th, 2023
+
+[airhacks.live](https://airhacks.live)
